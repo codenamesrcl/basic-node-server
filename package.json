@@ -1,0 +1,18 @@
+{
+  "name": "srcl-basic-node-server",
+  "version": "0.0.1",
+  "description": "A basic of basics http server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "node test"
+  },
+  "keywords": [
+
+  ],
+  "author": "codenamesrcl",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.11"
+  }
+}
