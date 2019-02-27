@@ -5,6 +5,11 @@ var http = require('http'),
 
 var server = null;
 
+var apirouters = {
+    //files: require("./routers/files")
+};
+
+
 /**
  * Creates and starts a http server to act as the epub server
  * @param  {int} port     A value for the server port
